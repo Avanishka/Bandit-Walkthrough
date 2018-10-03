@@ -9,7 +9,6 @@ Level 1->2
 
 Use ls to show the readme file
 Use cat to open the readme file
-
 cat readme.
 Ans is boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
